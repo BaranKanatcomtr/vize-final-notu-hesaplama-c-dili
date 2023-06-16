@@ -15,6 +15,9 @@ Kullanıcıdan girilmesi istenen Vize notunun %40 ve Final notunun %60 alınarak
 # Kullanım
 Algoritmanın çalışabilmesi için C programlama dilinin çalışabileceği program(ların) yüklü olması gereklidir.
 
+# Varyasyonlar
+Aynı algoritmayı Python ile yaptım. İncelemek istersen bağlantıya tıklayabilirsin. https://github.com/BaranKanatcomtr/vize-final-notu-hesaplama-python
+
 # İletişim
 Benimle iletişme geçmek isterseniz www.barankanat.com.tr adresini ziyaret edebilirsiniz.                          
 Twitter: https://twitter.com/Baran_Knt                          
